@@ -20,7 +20,7 @@ import org.json.JSONObject
 import java.util.*
 
 /**
- * TwoFragment で使う
+ * OneFragment で使う
  */
 class OneViewModel(
     val context: Context,
