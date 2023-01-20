@@ -3,7 +3,7 @@
 ij_kotlin_allow_trailing_comma = true
 ij_kotlin_allow_trailing_comma_on_call_site = true
 ij_kotlin_imports_layout = *,java.**,javax.**,kotlin.**,^
-ij_kotlin_packages_to_use_import_on_demand = java.util.*,kotlinx.android.synthetic.**,org.junit.Assert.*
+ij_kotlin_packages_to_use_import_on_demand = java.util.*,kotlinx.android.synthetic.**,org.junit.Assert.*,io.ktor.**
 indent_size = 4
 indent_style = space
 insert_final_newline = true
