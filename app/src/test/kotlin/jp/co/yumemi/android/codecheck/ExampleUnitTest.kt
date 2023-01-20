@@ -1,8 +1,7 @@
-package jp.co.yumemi.android.code_check
-
-import org.junit.Test
+package jp.co.yumemi.android.codecheck
 
 import org.junit.Assert.*
+import org.junit.Test
 
 /**
  * Example local unit test, which will execute on the development machine (host).
